@@ -3,6 +3,9 @@ DLFinalProject
 
 Final Project for Deep Learning class (2019)
 
+Paper [paper](https://drive.google.com/file/d/1eWMGgjFpzGgz8Z06cLlQ8gh62YmnuNBX/view)
+Medium [post](https://towardsdatascience.com/learning-like-babies-image-classification-using-semi-supervised-learning-ccfb5b391d1f)
+
 Project Organization
 ------------
 
