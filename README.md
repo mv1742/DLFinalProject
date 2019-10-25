@@ -1,7 +1,7 @@
 # DLFinalProject
 ================================
 
-Final Project for Deep Learning class (2019)
+Semi-Supervised Learning Image Classification
 
 ===========================
 ## See also:
