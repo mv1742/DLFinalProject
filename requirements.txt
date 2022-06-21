@@ -1,7 +1,7 @@
 -e git+https://github.com/albu/albumentations.git@2e0f11ba26478916011043d08cf7e3b5991ab618#egg=albumentations
 imageio==2.5.0
 imgaug==0.2.8
-numpy==1.16.2
+numpy==1.22.0
 opencv-python==4.1.0.25
 pandas==0.24.1
 python-dateutil==2.8.0
